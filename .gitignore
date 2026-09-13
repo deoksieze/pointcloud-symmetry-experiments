@@ -15,3 +15,8 @@ outputs/metrics/*
 
 # Generated figures (keep .git for raw scripts only)
 outputs/figures/*
+
+# One-off SSH/git setup helpers (not project code)
+scripts/setup_ssh.sh
+scripts/set_git_name.sh
+scripts/push_github.sh
