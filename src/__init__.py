@@ -1,0 +1,1 @@
+"""Point-cloud symmetry experiments: synthetic data, model, training, evaluation."""

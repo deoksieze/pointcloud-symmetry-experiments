@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.vscode/
+.env
+venv/
+env/
+
+# Checkpoints and outputs
+outputs/checkpoints/*
+outputs/metrics/*
+
+# Generated figures (keep .git for raw scripts only)
+outputs/figures/*
